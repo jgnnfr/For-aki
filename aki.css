@@ -552,3 +552,20 @@ html, body {
 	}
   }
   
+  .text h2{
+  	position: relative;
+  	text-align: center;
+  	color: #ffc0cb;
+  	bottom: -450px;
+  }
+    .text h3{
+  	position: relative;
+  	text-align: center;
+  	color: #ffc0cb;
+  	bottom: -470px;
+  }
+  .one {
+  	color: #ffc0cb;
+  	position: relative;
+  	left: 50px;
+  }
